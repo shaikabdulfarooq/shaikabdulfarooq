@@ -1,47 +1,48 @@
-# Shaik Abdul Farooq
-
-**Graduate Student (MCA)** | **AI & Software Automation Engineer**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikabdulfarooq)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:farooqshaik3906@gmail.com)
-
----
-
-## 🎯 Executive Summary
-
-Postgraduate student pursuing a Master of Computer Applications (MCA) with a strong foundation in **Applied AI**, **Computer Vision**, and **Enterprise Automation Systems**. Focused on bridging the gap between deep learning research and production engineering, with hands-on experience developing real-time vision pipelines, autonomous voice agents, and scalable workflow automation. Currently seeking **AI Engineering**, **Machine Learning**, or **Software Development** internship/full-time opportunities.
-
----
-
-## 🛠️ Technical Competencies
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | Python, C, Java |
-| **AI & Computer Vision** | OpenCV, MediaPipe, TensorFlow, PyTorch, Deep Learning Pipelines |
-| **Backend & Web API** | FastAPI, Flask, Node.js, Express.js, React |
-| **Automation & DevOps** | n8n, Make.com, Docker, Git/GitHub, WSL, REST API Integrations |
-
----
-
-##  Specialized Capabilities & Projects
-
-* **Real-Time Computer Vision Systems:** Implemented live face-swapping algorithms, gesture recognition models, and spatial tracking interfaces using OpenCV and MediaPipe.
-* **Multilingual Voice Interfaces:** Architected low-latency conversational voice agents capable of real-time speech processing and task execution.
-* **Workflow & API Automation:** Built self-hosted `n8n` and `Make.com` orchestration pipelines connecting AI models to web endpoints and database interfaces.
-
----
-
-### 📊 GitHub Activity
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaikabdulfarooq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Farooq's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikabdulfarooq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+# Shaik Abdul Farooq
+**Software Developer | AI & Systems Automation**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikabdulfarooq)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:farooqshaik3906@gmail.com)
+
+*I build practical machine learning models, automated workflows, and reliable backend systems.*
+
 </div>
 
 ---
 
-## 📩 Let's Connect
+## 👋 About Me
 
-* **LinkedIn:** [linkedin.com/in/shaikabdulfarooq](https://linkedin.com/in/shaikabdulfarooq)
-* **Direct Email:** [farooqshaik3906@gmail.com](mailto:farooqshaik3906@gmail.com)
+I am an MCA graduate student with hands-on internship experience spanning Python full-stack development and applied machine learning. I enjoy taking complex problems—like computer vision tracking and API integrations—and turning them into clean, functional software. 
+
+I am currently looking for an **AI Engineering** or **Software Development** role where I can write impactful code and grow with a strong engineering team.
+
+## 💻 Tech Stack
+
+- **Languages:** Python, Java, C, SQL
+- **AI & Data:** PyTorch, TensorFlow, OpenCV, MediaPipe, Pandas
+- **Backend & Web:** FastAPI, Flask, Node.js, React
+- **Tools & Automation:** Linux, Docker, Git, n8n, Make.com
+
+## 🚀 Featured Projects
+
+- **[Automated ECG Arrhythmia Detection](https://github.com/shaikabdulfarooq/Classification-of-Arrhythmia-ECG)**  
+  Built a machine learning pipeline that processes raw medical time-series data to accurately classify cardiac anomalies.
+
+- **[Conversational AI & Vision Systems](https://github.com/shaikabdulfarooq/farzu-ai)**  
+  Developed responsive voice agents and live spatial tracking tools using real-time speech processing and OpenCV.
+
+- **[Infrastructure & Security Lab](https://github.com/shaikabdulfarooq/Cyber-attack-simulation-lab)**  
+  Configured a controlled Linux network environment to test vulnerabilities and understand secure system architecture.
+
+- **Enterprise Workflow Automation**  
+  Architected self-hosted n8n pipelines that connect databases, external APIs, and AI models to automate routine backend tasks without manual input.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikabdulfarooq&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikabdulfarooq&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</div>
