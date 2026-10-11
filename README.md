@@ -1,4 +1,4 @@
-# 📍 Shaik Abdul Farooq
+# Shaik Abdul Farooq
 
 **Graduate Student (MCA)** | **AI & Software Automation Engineer**
 
@@ -18,14 +18,14 @@ Postgraduate student pursuing a Master of Computer Applications (MCA) with a str
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | Python, JavaScript (ES6+), C++, C, Java, HTML5/CSS3 |
+| **Languages** | Python, C, Java |
 | **AI & Computer Vision** | OpenCV, MediaPipe, TensorFlow, PyTorch, Deep Learning Pipelines |
 | **Backend & Web API** | FastAPI, Flask, Node.js, Express.js, React |
 | **Automation & DevOps** | n8n, Make.com, Docker, Git/GitHub, WSL, REST API Integrations |
 
 ---
 
-## 🚀 Specialized Capabilities & Projects
+##  Specialized Capabilities & Projects
 
 * **Real-Time Computer Vision Systems:** Implemented live face-swapping algorithms, gesture recognition models, and spatial tracking interfaces using OpenCV and MediaPipe.
 * **Multilingual Voice Interfaces:** Architected low-latency conversational voice agents capable of real-time speech processing and task execution.
@@ -33,12 +33,12 @@ Postgraduate student pursuing a Master of Computer Applications (MCA) with a str
 
 ---
 
-## 📊 Performance & Contributions
+### 📊 GitHub Activity
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=farooq-senpai&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farooq-senpai&layout=compact&theme=dark&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikabdulfarooq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Farooq's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikabdulfarooq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
