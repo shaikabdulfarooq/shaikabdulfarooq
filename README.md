@@ -3,9 +3,7 @@
 **Graduate Student (MCA)** | **AI & Software Automation Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikabdulfarooq)
-<a href="mailto:farooqshaik3906@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:farooqshaik3906@gmail.com)
 
 ---
 
