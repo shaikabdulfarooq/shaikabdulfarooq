@@ -43,6 +43,5 @@ Postgraduate student pursuing a Master of Computer Applications (MCA) with a str
 
 ## 📩 Let's Connect
 
-* **Portfolio / GitHub:** [github.com/farooq-senpai](https://github.com/farooq-senpai)
 * **LinkedIn:** [linkedin.com/in/shaikabdulfarooq](https://linkedin.com/in/shaikabdulfarooq)
 * **Direct Email:** [farooqshaik3906@gmail.com](mailto:farooqshaik3906@gmail.com)
