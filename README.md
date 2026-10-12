@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I am an MCA graduate student with hands-on internship experience spanning Python full-stack development and applied machine learning. I enjoy taking complex problems—like computer vision tracking and API integrations—and turning them into clean, functional software. 
+I am an MCA student with hands-on internship experience spanning Python full-stack development and applied machine learning. I enjoy taking complex problems—like computer vision tracking and API integrations—and turning them into clean, functional software. 
 
 I am currently looking for an **AI Engineering** or **Software Development** role where I can write impactful code and grow with a strong engineering team.
 
